@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this library, please cite it as below."
+authors:
+- family-names: "Finlow"
+  given-names: "Toby"
+title: "Tools used in MSc dissertation research of elevation correlation error in Distributed Simulation using open standards."
+version: 1.0.0
+date-released: 2025-08-12
+url: "https://github.com/Tfin3/MSc-GIS-OpenStandards-DistributedSimulation"
