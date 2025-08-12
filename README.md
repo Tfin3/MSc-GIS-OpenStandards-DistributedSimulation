@@ -2,7 +2,7 @@
 # Introduction
 This is the code used in the MSc Dissertation titled
 
-***Using GIS to understand the likelihood of correlation errors during distributed simulators that use open standards*** 
+***Using GIS to understand the likelihood of correlation errors in distributed simulators that use open standards*** 
 
 it is divided into 5 sections:
 - A - [Code related to OGC CDB](#ogc-cdb-code)
@@ -76,5 +76,6 @@ To note, originally there was a thought that it wasn't working correctly, howeve
 
 ## GUI application.. beginnings
 This was the beginning of a GUI application. Originally the intent was this would be usable by a non-GIS user to extract a subset of data from their simulator terrain dataset. However, due to time constraints this effort was stopped as it became apparent there wasn't scope to include it in the disseration, based on the other research conducted... This may get developed further at a later date... 
+
 
 
